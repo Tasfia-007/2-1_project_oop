@@ -1,0 +1,8 @@
+Name: John Doe, Age: 30, Access Level: Level 2
+
+Name: Jane Smith, Age: 35, Access Level: Level 3
+
+Name: Mike Johnson, Age: 25, Access Level: Visitor
+
+Name: Sarah Parker, Age: 27, Access Level: Visitor
+
