@@ -127,7 +127,7 @@
     void Environment()
     {
       cout<<"Choose one for environmental control: "<<'\n';
-     cout<<"1.Temperature\n2.Humidity\n3.Air\n4.Pressure Regulation\5.Radiation Monitoring\n6.Waste Management\n7.Fire Prevention and Suppression\n8.Sound Control\n";
+     cout<<"1.Temperature\n2.Humidity\n3.Air\n4.Pressure Regulation\n5.Radiation Monitoring\n6.Waste Management\n7.Fire Prevention and Suppression\n8.Sound Control\n";
      int c;
      cin>>c;
       if(c==1)
