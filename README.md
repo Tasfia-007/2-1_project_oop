@@ -8,14 +8,22 @@ This repository contains the source code, header files and data files for the Sp
 
 ## Features
  
-All of the features will work almost in the same pattern.The program will take response from teh user and show necessary output.Rather than making it user efficient I tried to use all the main tools of oop.
+All of the features will work almost in the same pattern.The program will take response from the user and show necessary output.Rather than making it user efficient I tried to use all the main tools of oop.
+
 -Environmental Control
+
 -Maintenance and Repair
+
 -Communication and Data Management
+
 -Science and Research
+
 -Mission Planning
+
 -Security and Access Control
+
 -Crew Management
+
 -Safety Emergency Procedure
 
 ## OOP features used for implementation
